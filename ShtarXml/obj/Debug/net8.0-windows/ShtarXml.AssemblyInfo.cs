@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShtarXml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bd8dfa7fdf66915f2e9ac9f01eabdcd1405f4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShtarXml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShtarXml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

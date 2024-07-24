@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{3EDAEEA2-DC60-466B-9114-54DF0C4D3459}|ShtarXml\\ShtarXml.csproj|solutionrelative:shtarxml\\configuratuion\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EDAEEA2-DC60-466B-9114-54DF0C4D3459}|ShtarXml\\ShtarXml.csproj|c:\\users\\mendel\\source\\repos\\shtarxml\\shtarxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3EDAEEA2-DC60-466B-9114-54DF0C4D3459}|ShtarXml\\ShtarXml.csproj|C:\\Users\\Mendel\\source\\repos\\ShtarXml\\shtarxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3EDAEEA2-DC60-466B-9114-54DF0C4D3459}|ShtarXml\\ShtarXml.csproj|solutionrelative:shtarxml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,8 +39,7 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwBsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:52:59.479Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -50,7 +49,7 @@
               "RelativeDocumentMoniker": "ShtarXml\\Form1.cs",
               "ToolTip": "C:\\Users\\Mendel\\source\\repos\\ShtarXml\\ShtarXml\\Form1.cs",
               "RelativeToolTip": "ShtarXml\\Form1.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAswGYAAAApAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAvwGsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T06:55:25.502Z",
               "EditorCaption": ""
@@ -65,8 +64,7 @@
               "RelativeToolTip": "ShtarXml\\Configuratuion\\configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:51:24.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T06:51:24.576Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "ToolTip": "C:\\Users\\Mendel\\source\\repos\\ShtarXml\\ShtarXml\\Form1.cs [Design]",
               "RelativeToolTip": "ShtarXml\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T06:49:12.086Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-24T06:49:12.086Z"
             }
           ]
         }

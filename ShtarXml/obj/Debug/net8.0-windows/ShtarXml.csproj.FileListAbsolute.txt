@@ -14,3 +14,4 @@ C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\refint\S
 C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.pdb
 C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.genruntimeconfig.cache
 C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ref\ShtarXml.dll
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.sourcelink.json

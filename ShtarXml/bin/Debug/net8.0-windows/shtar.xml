@@ -14,4 +14,39 @@
     <year>תשפ"ד</year>
     <result>באחד בשבת יום שלושים לחודשתשרי שהוא ראש חודש מרחשון שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
   </query>
+  <query>
+    <day>ראשון</day>
+    <day-month>1</day-month>
+    <month>תשרי</month>
+    <year>תשפ"ד</year>
+    <result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <day-month>1</day-month>
+    <month>תשרי</month>
+    <year>תשצ"א</year>
+    <result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <day-month>1</day-month>
+    <month>תשרי</month>
+    <year>תשצ"ב</year>
+    <result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושבע מאות ותשעים ושתים לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <day-month>30</day-month>
+    <month>אדר הראשון</month>
+    <year>תשצ"ב</year>
+    <result>באחד בשבת יום שלושים לחודש אדר הראשון שהוא ראש חודש אדר שני שנת חמשת אלפים ושבע מאות ותשעים ושתים לבריאת העולם</result>
+  </query>
+  <query>
+    <day>רביעי</day>
+    <day-month>30</day-month>
+    <month>אדר הראשון</month>
+    <year>תשצ"א</year>
+    <result>ברביעי בשבת יום שלושים לחודש אדר הראשון שהוא ראש חודש אדר שני שנת חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם</result>
+  </query>
 </queries>
