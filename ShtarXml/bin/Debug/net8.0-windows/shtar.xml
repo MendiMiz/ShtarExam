@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<queries>
+  <query>
+    <day>ראשון</day>
+    <day-month>1</day-month>
+    <month>תשרי</month>
+    <year>תשפ"ד</year>
+    <result>באחד בשבת יום אחד לירח תשרי שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+  <query>
+    <day>ראשון</day>
+    <day-month>30</day-month>
+    <month>תשרי</month>
+    <year>תשפ"ד</year>
+    <result>באחד בשבת יום שלושים לחודשתשרי שהוא ראש חודש מרחשון שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+</queries>

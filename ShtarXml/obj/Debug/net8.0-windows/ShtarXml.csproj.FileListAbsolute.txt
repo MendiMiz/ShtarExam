@@ -1,0 +1,16 @@
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\bin\Debug\net8.0-windows\ShtarXml.exe
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\bin\Debug\net8.0-windows\ShtarXml.deps.json
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\bin\Debug\net8.0-windows\ShtarXml.runtimeconfig.json
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\bin\Debug\net8.0-windows\ShtarXml.dll
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\bin\Debug\net8.0-windows\ShtarXml.pdb
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.Form1.resources
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.csproj.GenerateResource.cache
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.AssemblyInfoInputs.cache
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.AssemblyInfo.cs
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.csproj.CoreCompileInputs.cache
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.dll
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\refint\ShtarXml.dll
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.pdb
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ShtarXml.genruntimeconfig.cache
+C:\Users\Mendel\source\repos\ShtarXml\ShtarXml\obj\Debug\net8.0-windows\ref\ShtarXml.dll
